@@ -17,6 +17,7 @@
 ### 栈(Stack)
 
 - [Valid Parentheses](https://github.com/jaysdev/LeetCode/blob/master/20_Valid%20Parentheses.md)
+- [Implement Queue using Stack](https://github.com/jaysdev/LeetCode/blob/master/232_Implement%20Queue%20using%20Stacks.md)
 
 ## 
 
