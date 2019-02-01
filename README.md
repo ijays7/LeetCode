@@ -16,6 +16,8 @@
 
 ### 栈(Stack)
 
+- [Valid Parentheses](https://github.com/jaysdev/LeetCode/blob/master/20_Valid%20Parentheses.md)
+
 ## 
 
 

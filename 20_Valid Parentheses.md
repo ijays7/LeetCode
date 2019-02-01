@@ -56,6 +56,32 @@ Output: true
     }
 ```
 
+Kotlin版：
+
+```kotlin
+fun isValid(s: String): Boolean {
+
+    val stack = mutableListOf<Char>()
+    val pairs = mapOf<Char, Char>('(' to ')', '[' to ']', '{' to '}')
+
+    s.toCharArray().forEach {
+        if (pairs.containsKey(it)) {
+            stack.add(it)
+        } else {
+            if (!stack.isEmpty() && it == pairs[stack.last()]) {
+                stack.removeAt(stack.size - 1)
+            } else {
+                return false
+            }
+        }
+    }
+
+    return stack.isEmpty()
+}
+```
+
+
+
 LeetCode Discussion 中的 Java 做法：
 
 这个做法大同小异，没有使用 map 存储映射关系，因为这道题匹配的内容很少，直接枚举各种匹配的情况，殊途同归。
