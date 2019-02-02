@@ -1,16 +1,18 @@
 # LeetCode刷题记录
 
-### 数组
+### 数组(Array)
 
 - [Plus One](https://github.com/jaysdev/LeetCode/blob/master/66_Plus%20one.md)
 - [Rotate Array](https://github.com/jaysdev/LeetCode/blob/master/189_Rotate%20Array.md)
+- [Contain Duplicate](https://github.com/jaysdev/LeetCode/blob/master/217_%20Contains%20Duplicate.md)
+- [Contain Duplicate II](https://github.com/jaysdev/LeetCode/blob/master/219_Contains%20duplicate%20II.md)
 
-### 链表
+### 链表(Linked List)
 
 - [逆置单链表](https://github.com/jaysdev/LeetCode/blob/master/206_%E9%80%86%E7%BD%AE%E5%8D%95%E9%93%BE%E8%A1%A8.md)
 - [Merge Two Sorted List](https://github.com/jaysdev/LeetCode/blob/master/21_Merge%20two%20sorted%20list.md)
 
-### 二分查找
+### 二分查找(Binary search)
 
 - [Search Insert Position](https://github.com/jaysdev/LeetCode/blob/master/35_Search%20Insert%20Position.md)
 
