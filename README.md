@@ -2,7 +2,8 @@
 
 ### 字符串(String)
 
-- 
+- [Implement strStr()](https://github.com/jaysdev/LeetCode/blob/master/28_Implement%20strStr().md)
+- [Valid anagram](https://github.com/jaysdev/LeetCode/blob/master/242_Valid%20Anagram.md)
 
 ### 数组(Array)
 
