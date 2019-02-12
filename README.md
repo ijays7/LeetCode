@@ -5,6 +5,8 @@
 - [Implement strStr()](https://github.com/jaysdev/LeetCode/blob/master/28_Implement%20strStr().md)
 - [Valid Anagram](https://github.com/jaysdev/LeetCode/blob/master/242_Valid%20Anagram.md)
 - [Most Common Word](https://github.com/jaysdev/LeetCode/blob/master/819_Most%20Common%20Word.md)
+- [Roman to Integer](https://github.com/jaysdev/LeetCode/blob/master/13_Roman%20to%20Integer.md)
+- [Remove Duplicates from Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/26_Remove%20Duplicates%20from%20sorted%20array.md)
 
 ### 数组(Array)
 
@@ -12,6 +14,7 @@
 - [Rotate Array](https://github.com/jaysdev/LeetCode/blob/master/189_Rotate%20Array.md)
 - [Contain Duplicate](https://github.com/jaysdev/LeetCode/blob/master/217_%20Contains%20Duplicate.md)
 - [Contain Duplicate II](https://github.com/jaysdev/LeetCode/blob/master/219_Contains%20duplicate%20II.md)
+- [Maximum Product of Three Numbers](https://github.com/jaysdev/LeetCode/blob/master/262_%20Maximum%20Product%20of%20Three%20Numbers.md)
 
 ### 链表(Linked List)
 
