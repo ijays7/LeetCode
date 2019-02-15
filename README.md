@@ -7,6 +7,7 @@
 - [Most Common Word](https://github.com/jaysdev/LeetCode/blob/master/819_Most%20Common%20Word.md)
 - [Roman to Integer](https://github.com/jaysdev/LeetCode/blob/master/13_Roman%20to%20Integer.md)
 - [Remove Duplicates from Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/26_Remove%20Duplicates%20from%20sorted%20array.md)
+- [Longest Common Prefix](https://github.com/jaysdev/LeetCode/blob/master/14_Longest%20Common%20Prefix.md)
 
 ### 数组(Array)
 
