@@ -15,6 +15,7 @@
 - [Contain Duplicate](https://github.com/jaysdev/LeetCode/blob/master/217_%20Contains%20Duplicate.md)
 - [Contain Duplicate II](https://github.com/jaysdev/LeetCode/blob/master/219_Contains%20duplicate%20II.md)
 - [Maximum Product of Three Numbers](https://github.com/jaysdev/LeetCode/blob/master/262_%20Maximum%20Product%20of%20Three%20Numbers.md)
+- [Merge Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/88_Merge%20Sorted%20Array.md)
 
 ### 链表(Linked List)
 
