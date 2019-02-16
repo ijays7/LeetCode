@@ -8,6 +8,7 @@
 - [Roman to Integer](https://github.com/jaysdev/LeetCode/blob/master/13_Roman%20to%20Integer.md)
 - [Remove Duplicates from Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/26_Remove%20Duplicates%20from%20sorted%20array.md)
 - [Longest Common Prefix](https://github.com/jaysdev/LeetCode/blob/master/14_Longest%20Common%20Prefix.md)
+- [Palindrome Number](https://github.com/jaysdev/LeetCode/blob/master/9_Palindrome%20Number.md)
 
 ### 数组(Array)
 
