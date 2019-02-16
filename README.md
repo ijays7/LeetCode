@@ -28,6 +28,7 @@
 ### 二分查找(Binary search)
 
 - [Search Insert Position](https://github.com/jaysdev/LeetCode/blob/master/35_Search%20Insert%20Position.md)
+- [Binary Search](https://github.com/jaysdev/LeetCode/blob/master/704_Binary%20Search.md)
 
 ### 栈(Stack)
 
