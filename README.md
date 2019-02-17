@@ -29,6 +29,7 @@
 
 - [Search Insert Position](https://github.com/jaysdev/LeetCode/blob/master/35_Search%20Insert%20Position.md)
 - [Binary Search](https://github.com/jaysdev/LeetCode/blob/master/704_Binary%20Search.md)
+- [Find Smallest Letter Greater Than Target](https://github.com/jaysdev/LeetCode/blob/master/744_Find%20Smallest%20Letter%20Greater%20Than%20Target.md)
 
 ### 栈(Stack)
 
