@@ -44,5 +44,9 @@
 - [Sliding Window ](https://github.com/jaysdev/LeetCode/blob/master/239_Sliding%20Window%20Maximum.md) 
 - [Top K Frequent Elements](https://github.com/jaysdev/LeetCode/blob/master/347_Top%20K%20Frequent%20Elements.md)
 
+### Bit Manipulation
+
+- [Single Number](https://github.com/jaysdev/LeetCode/blob/master/136_Single%20Number.md)
+
 
 
