@@ -43,6 +43,7 @@
 - [Kth Largest Element in an Array](https://github.com/jaysdev/LeetCode/blob/master/215_Kth%20Largest%20Element%20in%20an%20Array.md)
 - [Sliding Window ](https://github.com/jaysdev/LeetCode/blob/master/239_Sliding%20Window%20Maximum.md) 
 - [Top K Frequent Elements](https://github.com/jaysdev/LeetCode/blob/master/347_Top%20K%20Frequent%20Elements.md)
+- [Third Maximum Number](https://github.com/jaysdev/LeetCode/blob/master/414_Third%20Maximum%20Number.md)
 
 ### Bit Manipulation
 
