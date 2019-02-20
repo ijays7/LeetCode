@@ -50,5 +50,7 @@
 
 - [Single Number](https://github.com/jaysdev/LeetCode/blob/master/136_Single%20Number.md)
 
+### Math
 
+- [Count Primes](https://github.com/jaysdev/LeetCode/blob/master/204_Count%20Primes.md)
 
