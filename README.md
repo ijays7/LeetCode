@@ -10,6 +10,7 @@
 - [Longest Common Prefix](https://github.com/jaysdev/LeetCode/blob/master/14_Longest%20Common%20Prefix.md)
 - [Palindrome Number](https://github.com/jaysdev/LeetCode/blob/master/9_Palindrome%20Number.md)
 - [First Unique Character String](https://github.com/jaysdev/LeetCode/blob/master/387_First%20Unique%20Character%20in%20a%20String.md)
+- [Keyboard Row](https://github.com/jaysdev/LeetCode/blob/master/500_Keyboard%20Row.md)
 
 ### 数组(Array)
 
