@@ -14,6 +14,8 @@
 
 ### 数组(Array)
 
+- [Two Sum](https://github.com/jaysdev/LeetCode/blob/master/1_Two%20Sum.md)
+
 - [Plus One](https://github.com/jaysdev/LeetCode/blob/master/66_Plus%20one.md)
 - [Rotate Array](https://github.com/jaysdev/LeetCode/blob/master/189_Rotate%20Array.md)
 - [Contain Duplicate](https://github.com/jaysdev/LeetCode/blob/master/217_%20Contains%20Duplicate.md)
