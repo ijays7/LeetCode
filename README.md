@@ -22,6 +22,7 @@
 - [Contain Duplicate II](https://github.com/jaysdev/LeetCode/blob/master/219_Contains%20duplicate%20II.md)
 - [Maximum Product of Three Numbers](https://github.com/jaysdev/LeetCode/blob/master/262_%20Maximum%20Product%20of%20Three%20Numbers.md)
 - [Merge Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/88_Merge%20Sorted%20Array.md)
+- [Intersection of Two Arrays](https://github.com/ijays7/LeetCode/blob/master/349_Intersection%20of%20Two%20Arrays.md)
 
 ### 链表(Linked List)
 
@@ -29,6 +30,7 @@
 - [Merge Two Sorted List](https://github.com/jaysdev/LeetCode/blob/master/21_Merge%20two%20sorted%20list.md)
 - [Remove duplicates from Sorted List](https://github.com/jaysdev/LeetCode/blob/master/83_Remove%20Duplicates%20From%20Sortes%20List.md)
 - [Linked List Cycle](https://github.com/jaysdev/LeetCode/blob/master/141_Linked%20List%20Cycle.md)
+- [Intersection of Two Linked Lists](https://github.com/ijays7/LeetCode/blob/master/160_Intersection%20of%20Two%20Linked%20Lists.md)
 
 ### 二分查找(Binary search)
 
