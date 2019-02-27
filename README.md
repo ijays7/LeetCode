@@ -15,7 +15,7 @@
 ### 数组(Array)
 
 - [Two Sum](https://github.com/jaysdev/LeetCode/blob/master/1_Two%20Sum.md)
-- Three Sum
+- [Three Sum](https://github.com/ijays7/LeetCode/blob/master/15_Three%20Sum.md)
 - [Plus One](https://github.com/jaysdev/LeetCode/blob/master/66_Plus%20one.md)
 - [Rotate Array](https://github.com/jaysdev/LeetCode/blob/master/189_Rotate%20Array.md)
 - [Contain Duplicate](https://github.com/jaysdev/LeetCode/blob/master/217_%20Contains%20Duplicate.md)
@@ -31,6 +31,7 @@
 - [Remove duplicates from Sorted List](https://github.com/jaysdev/LeetCode/blob/master/83_Remove%20Duplicates%20From%20Sortes%20List.md)
 - [Linked List Cycle](https://github.com/jaysdev/LeetCode/blob/master/141_Linked%20List%20Cycle.md)
 - [Intersection of Two Linked Lists](https://github.com/ijays7/LeetCode/blob/master/160_Intersection%20of%20Two%20Linked%20Lists.md)
+- [Middle of the Linked List](https://github.com/ijays7/LeetCode/blob/master/876_Middle%20of%20the%20Linked%20List.md)
 
 ### 二分查找(Binary search)
 
