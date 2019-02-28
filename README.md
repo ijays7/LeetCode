@@ -53,6 +53,10 @@
 - [Top K Frequent Elements](https://github.com/jaysdev/LeetCode/blob/master/347_Top%20K%20Frequent%20Elements.md)
 - [Third Maximum Number](https://github.com/jaysdev/LeetCode/blob/master/414_Third%20Maximum%20Number.md)
 
+### 贪心(Greedy)
+
+
+
 ### 动态规划(Dynamic Programming)
 
 - [Climbing Stairs](https://github.com/jaysdev/LeetCode/blob/master/70_Climbing%20Stairs.md)
