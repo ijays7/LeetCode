@@ -55,7 +55,7 @@
 
 ### 树(Tree)
 
-
+- [Validate Binary Search Tree](https://github.com/ijays7/LeetCode/blob/master/98_Validate%20Binary%20Search%20Tree.md)
 
 ### 贪心(Greedy)
 
