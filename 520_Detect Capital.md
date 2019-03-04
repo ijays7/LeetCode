@@ -12,6 +12,14 @@ Otherwise, we define that this word doesn't use capitals in a right way.
 
 ## Solution
 
+这道题是给定一个字符串，判断该字符串是否符合题目中给出的大小写规则，即：
+
+1. 要么全部大写
+2. 要么全部小写
+3. 要么仅首字母大写
+
+这么我们直接暴力破解，首先将字符串全部转换为大写，如果前后字符串一致，那么肯定满足规则；同理，将字符串全部转换为小写，判断前后是否一致。最麻烦的首字母大写的情况，需要首先判断首字母是否大写，如果大写了，需要对余下字符串再进行一次全部转小写判断的操作。整体思路还是很流畅的。
+
 ```java
  public boolean detectCapitalUse(String word) {
         if (word == null || word.isEmpty()) {

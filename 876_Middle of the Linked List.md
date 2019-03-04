@@ -26,7 +26,7 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, and ans.next.next.next = N
 
 ```java
  public ListNode middleNode(ListNode head) {
-         int count = 0;
+        int count = 0;
         int countFlag = 0;
 
         ListNode iteration = head;
@@ -35,11 +35,8 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, and ans.next.next.next = N
             count++;
             iteration = iteration.next;
         }
-        if (count % 2 == 0) {
-            count = count / 2;
-        } else {
-            count = count / 2;
-        }
+   
+        count = count / 2; 
 
         while (countFlag < count) {
             countFlag++;
