@@ -13,6 +13,7 @@
 - [Keyboard Row](https://github.com/jaysdev/LeetCode/blob/master/500_Keyboard%20Row.md)
 - [Detect Captal](https://github.com/ijays7/LeetCode/blob/master/520_Detect%20Capital.md)
 - [Reverse Only Letters](https://github.com/ijays7/LeetCode/blob/master/917_Reverse%20Only%20Letters.md)
+- [Rotate String](https://github.com/ijays7/LeetCode/blob/master/796_Rotate%20String.md)
 
 ### 数组(Array)
 
