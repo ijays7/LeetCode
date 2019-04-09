@@ -26,6 +26,7 @@
 - [Maximum Product of Three Numbers](https://github.com/jaysdev/LeetCode/blob/master/262_%20Maximum%20Product%20of%20Three%20Numbers.md)
 - [Merge Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/88_Merge%20Sorted%20Array.md)
 - [Intersection of Two Arrays](https://github.com/ijays7/LeetCode/blob/master/349_Intersection%20of%20Two%20Arrays.md)
+- [Majority Element](https://github.com/ijays7/LeetCode/blob/master/169_Majortity%20Element.md)
 
 ### 链表(Linked List)
 
