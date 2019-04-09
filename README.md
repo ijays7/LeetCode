@@ -73,6 +73,10 @@
 
 - [Single Number](https://github.com/jaysdev/LeetCode/blob/master/136_Single%20Number.md)
 
+### LRUCache
+
+- [LRUCache](https://github.com/ijays7/LeetCode/blob/master/146_LRUCache.md)
+
 ### Math
 
 - [Count Primes](https://github.com/jaysdev/LeetCode/blob/master/204_Count%20Primes.md)
