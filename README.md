@@ -27,6 +27,7 @@
 - [Merge Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/88_Merge%20Sorted%20Array.md)
 - [Intersection of Two Arrays](https://github.com/ijays7/LeetCode/blob/master/349_Intersection%20of%20Two%20Arrays.md)
 - [Majority Element](https://github.com/ijays7/LeetCode/blob/master/169_Majortity%20Element.md)
+- [Intersection of Two Arrays II](https://github.com/ijays7/LeetCode/blob/master/350_Intersection%20of%20Two%20Arrays%20II.md)
 
 ### 链表(Linked List)
 
