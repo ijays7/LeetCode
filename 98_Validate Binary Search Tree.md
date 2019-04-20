@@ -41,6 +41,7 @@ Output: true
         }
         // 中序遍历树
         List<Integer> list = new ArrayList();
+     	// 用来暂存节点的栈
         Stack<TreeNode> treeStack = new Stack<>();
         TreeNode node = root;
 
