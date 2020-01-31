@@ -18,6 +18,7 @@
 ### 数组(Array)
 
 - [Two Sum](https://github.com/jaysdev/LeetCode/blob/master/1_Two%20Sum.md)
+- [Two Sum II](https://github.com/ijays7/LeetCode/blob/master/167_Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
 - [Three Sum](https://github.com/ijays7/LeetCode/blob/master/15_Three%20Sum.md)
 - [Plus One](https://github.com/jaysdev/LeetCode/blob/master/66_Plus%20one.md)
 - [Rotate Array](https://github.com/jaysdev/LeetCode/blob/master/189_Rotate%20Array.md)
