@@ -61,6 +61,7 @@
 ### 树(Tree)
 
 - [Validate Binary Search Tree](https://github.com/ijays7/LeetCode/blob/master/98_Validate%20Binary%20Search%20Tree.md)
+- [Invert Binart Tree 翻转二叉树](https://github.com/ijays7/LeetCode/blob/master/226_Invert%20Binary%20Tree.md)
 
 ### 贪心(Greedy)
 
