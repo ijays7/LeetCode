@@ -14,6 +14,7 @@
 - [Detect Captal](https://github.com/ijays7/LeetCode/blob/master/520_Detect%20Capital.md)
 - [Reverse Only Letters](https://github.com/ijays7/LeetCode/blob/master/917_Reverse%20Only%20Letters.md)
 - [Rotate String](https://github.com/ijays7/LeetCode/blob/master/796_Rotate%20String.md)
+- [Can Place Flowers](https://github.com/ijays7/LeetCode/blob/master/605.%20Can%20Place%20Flowers.md)
 
 ### 数组(Array)
 
