@@ -9,7 +9,7 @@
 - [Remove Duplicates from Sorted Array](https://github.com/jaysdev/LeetCode/blob/master/26_Remove%20Duplicates%20from%20sorted%20array.md)
 - [Longest Common Prefix](https://github.com/jaysdev/LeetCode/blob/master/14_Longest%20Common%20Prefix.md)
 - [Palindrome Number](https://github.com/jaysdev/LeetCode/blob/master/9_Palindrome%20Number.md)
-- [Valid Palindrome](https://github.com/ijays7/LeetCode/blob/master/125_Valid Palindrome.md)
+- [Valid Palindrome](https://github.com/ijays7/LeetCode/blob/master/125_Valid%20Palindrome.md)
 - [First Unique Character String](https://github.com/jaysdev/LeetCode/blob/master/387_First%20Unique%20Character%20in%20a%20String.md)
 - [Keyboard Row](https://github.com/jaysdev/LeetCode/blob/master/500_Keyboard%20Row.md)
 - [Detect Captal](https://github.com/ijays7/LeetCode/blob/master/520_Detect%20Capital.md)
@@ -78,6 +78,7 @@
 ### Bit Manipulation
 
 - [Single Number](https://github.com/jaysdev/LeetCode/blob/master/136_Single%20Number.md)
+- [Number of 1 Bits](https://github.com/ijays7/LeetCode/blob/master/191_Number%20of%201%20Bits.md)
 
 ### LRUCache
 
