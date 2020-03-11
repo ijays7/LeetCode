@@ -43,3 +43,27 @@ Output: 3
     }
 ```
 
+
+
+Kotlin Version:
+
+```Kotlin
+fun majorityElement(nums: IntArray): Int {
+    val map = mutableMapOf<Int, Int>()
+    for (i in nums.indices) {
+        map[nums[i]] = map.getOrDefault(nums[i], 0) + 1
+    }
+
+    var result = 0
+    var times = 0
+
+    map.forEach { (t, u) ->
+        if (times < u) {
+            times = u
+            result = t
+        }
+    }
+    return result
+}
+```
+
