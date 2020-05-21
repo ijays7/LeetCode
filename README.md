@@ -36,7 +36,7 @@
 
 - [逆置单链表](https://github.com/jaysdev/LeetCode/blob/master/206_%E9%80%86%E7%BD%AE%E5%8D%95%E9%93%BE%E8%A1%A8.md)
 - [Merge Two Sorted List](https://github.com/jaysdev/LeetCode/blob/master/21_Merge%20two%20sorted%20list.md)
-- [Remove duplicates from Sorted List](https://github.com/jaysdev/LeetCode/blob/master/83_Remove%20Duplicates%20From%20Sortes%20List.md)
+- [Remove Duplicates From Sorted List](https://github.com/ijays7/LeetCode/blob/master/83_Remove%20Duplicates%20From%20Sorted%20List.md)
 - [Linked List Cycle](https://github.com/jaysdev/LeetCode/blob/master/141_Linked%20List%20Cycle.md)
 - [Intersection of Two Linked Lists](https://github.com/ijays7/LeetCode/blob/master/160_Intersection%20of%20Two%20Linked%20Lists.md)
 - [Middle of the Linked List](https://github.com/ijays7/LeetCode/blob/master/876_Middle%20of%20the%20Linked%20List.md)
