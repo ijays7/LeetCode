@@ -72,7 +72,7 @@ A solution set is:
 
 上面的代码中命中目标后继续往下进行了扫描，但是为了判重使用了 contains 方法进行判断，可想而知，这个代码虽然可行，但是成绩不会太好。
 
-参考了 discussion 中的类似代码后对上面的代码进行了优化，运行时间只用了35ms，由于99%的 Java 提交。
+参考了 discussion 中的类似代码后对上面的代码进行了优化，运行时间只用了35ms，优于99%的 Java 提交。
 
 ```java
  public static List<List<Integer>> threeSum(int[] nums) {
